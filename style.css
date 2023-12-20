@@ -1,0 +1,155 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#high-scores-link {
+    margin-left: 20px;
+}
+
+#timer {
+    margin-right: 20px;
+}
+
+#quiz-intro {
+    text-align: center;
+    max-width: 600px;
+}
+
+#start-quiz-btn {
+    background-color: #6a5acd;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+#start-quiz-btn:hover {
+    background-color: #483d8b;
+}
+
+.hidden {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+#question-container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#question {
+    margin-bottom: 1rem;
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+}
+
+.btn {
+    background-color: #6a5acd;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.btn:hover {
+    background-color: #483d8b;
+}
+
+#feedback {
+    color: #28a745;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.disabled {
+    opacity: 0.5; 
+}
+
+#result-container {
+    text-align: center;
+}
+
+
+#submit-score-form {
+    margin-top: 20px;
+}
+
+#submit-score-form input {
+    margin-right: 10px;
+}
+
+#submit-score-btn {
+    padding: 0.5rem 1rem; 
+    background-color: #6a5acd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#submit-score-btn:hover {
+    background-color: #483d8b;
+}
+
+#high-scores-container {
+    text-align: center;
+    padding: 20px;
+}
+
+#high-scores-list {
+    list-style: none;
+    padding: 0;
+}
+
+#high-scores-list li {
+    background-color: #6a5acd;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#go-back-btn,
+#clear-high-scores-btn {
+    margin-top: 20px;
+    background-color: #6a5acd;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#go-back-btn:hover,
+#clear-high-scores-btn:hover {
+    background-color: #483d8b;
+}
