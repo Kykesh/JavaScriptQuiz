@@ -1,4 +1,3 @@
-# JavaScriptQuiz
 # JavaScript Coding Quiz
 
 # Table of Contents
@@ -51,9 +50,11 @@ The JavaScript Fundamentals Coding Quiz is an interactive web application design
 2. **Navigate to Project Directory**: Change directory to the project folder.
 3. **Open in Browser**: Open the `index.html` file in a web browser to start using the quiz.
 4. ## Screenshot
-![Screenshot]
+![Screenshot](/JavaScriptQuiz/assets/images/JS1.png)
+![Screenshot](/JavaScriptQuiz/assets/images/JS2.png)
 
-- Deploy application:
+
+5. Deploy application: https://kykesh.github.io/JavaScriptQuiz/
 
 
 
