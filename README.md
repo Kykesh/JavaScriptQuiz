@@ -9,6 +9,8 @@
 6. [Setup and Installation](#setup-and-installation)
 7. [How to Play](#how-to-play)
 8. [License](#license)
+9. [Contact Information](#contact-information)
+10. [External Resources](#external-resources)
 
 ---
 
@@ -74,3 +76,8 @@ This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE 
 - Email: Kylehuff20@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kylehuffsr/
 - GitHub: https://github.com/Kykesh
+
+## External Resources
+
+- Used google to get JS questions
+- Additional resources such as youtube tutorials, Stack Overflow discussions, etc.
